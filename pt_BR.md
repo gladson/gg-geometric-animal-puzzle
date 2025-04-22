@@ -77,7 +77,7 @@ Para adicionar um novo animal ao jogo:
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
+Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Créditos
 
