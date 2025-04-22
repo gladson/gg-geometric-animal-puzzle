@@ -33,10 +33,10 @@ Geometric Animal Puzzle is an educational game designed for toddlers and young c
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/geometric-animal-puzzle.git
+git clone https://github.com/gladson/gg-geometric-animal-puzzle.git
 
 # Navigate to the project directory
-cd geometric-animal-puzzle
+cd gg-geometric-animal-puzzle
 
 # Install dependencies
 flutter pub get
