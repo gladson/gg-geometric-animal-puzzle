@@ -33,10 +33,10 @@ Quebra-Cabeça Geométrico de Animais é um jogo educativo projetado para bebês
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/quebra-cabeca-geometrico-animais.git
+git clone https://github.com/gladson/gg-geometric-animal-puzzle.git
 
 # Navegue até o diretório do projeto
-cd quebra-cabeca-geometrico-animais
+cd gg-geometric-animal-puzzle
 
 # Instale as dependências
 flutter pub get
